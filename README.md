@@ -19,7 +19,7 @@
 ### 🖥️🖥️ 我的 GitHub。
 <br>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aleeyoo&show_icons=true&theme=transparent&commits_year=2024" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aleeyoo&show_icons=true&theme=transparent&commits_year=2025" />
 </a>
 <a href="">
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent" />
