@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋👋 你好，我是 Aleeyoo !!!
 
-<!--
-**Aleeyoo/Aleeyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✍️✍️ 我的个人博客。
+<br>
+<div style="display:flex; gap:12px; flex-wrap:wrap; align-items:center; justify-content:center; margin:20px auto; padding:0 15px;">
+  <a href="https://www.ifdian.net/a/leoowa" target="_blank" rel="noopener noreferrer" 
+     style="text-decoration:none; display:inline-block; animation: bounce 1.2s infinite ease-in-out; transition: transform 0.2s;">
+    <img src="https://raw.github.com/Aleeyoo/note-gen-image-sync/main/b608f211-4aec-4994-9d43-8f80c150c21d.gif" 
+         style="width:32px; height:32px; border:0; border-radius:4px; transition: opacity 0.3s;">
+  </a>
 
-Here are some ideas to get you started:
+<a href="https://leoowa.pages.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/Aleeyoo-3498db?style=for-the-badge&logo=blogger&logoColor=white" 
+         style="height:32px; width:auto; border:0; border-radius:4px; transition: opacity 0.3s;">
+  </a>
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️🖥️ 我的 GitHub。
+<br>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aleeyoo&show_icons=true&theme=transparent&commits_year=2024" />
+</a>
+<a href="">
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent" />
+</a>
